@@ -58,6 +58,8 @@ An interactive web application that uses **breadth-first search (BFS)** to find 
 * **Live Demo:** [Play Degrees of Separation](https://david-oladepo.github.io/cs50-ai-degrees-web/)
 * **Source Code:** [View on GitHub](https://github.com/David-Oladepo/cs50-ai-degrees-web)
 * **Core Concepts:** Graph search, BFS, shortest-path algorithms, Python-to-web project presentation.
+[![Degrees of Separation — AI Explorer](https://raw.githubusercontent.com/David-Oladepo/cs50-ai-degrees-web/main/degrees-homepage.png)](https://david-oladepo.github.io/cs50-ai-degrees-web/)
+
 
 ## Current Technical Interests
 
