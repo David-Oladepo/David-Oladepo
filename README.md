@@ -39,14 +39,6 @@ An interactive game built around an AI opponent that uses the Minimax algorithm 
 * A browser-based interface using HTML, CSS, and JavaScript
 * Project documentation and deployment with GitHub Pages
 
-  ### 🎬 Degrees of Separation — AI Explorer
-
-An interactive web application that uses **breadth-first search (BFS)** to find the shortest connection between two actors through films they appeared in together.
-
-* **Live Demo:** [Play Degrees of Separation](https://david-oladepo.github.io/cs50-ai-degrees-web/)
-* **Source Code:** [View on GitHub](https://github.com/David-Oladepo/cs50-ai-degrees-web)
-* **Core Concepts:** Graph search, BFS, shortest-path algorithms, Python-to-web project presentation.
-
 
 **Explore the project**
 
@@ -58,6 +50,14 @@ An interactive web application that uses **breadth-first search (BFS)** to find 
     <img src="https://github.com/David-Oladepo/cs50-ai-tictactoe/blob/main/tic-tac-toe-game.png?raw=true" alt="Preview of the Tic-Tac-Toe AI game" width="600" />
   </a>
 </p>
+
+### 🎬 Degrees of Separation — AI Explorer
+
+An interactive web application that uses **breadth-first search (BFS)** to find the shortest connection between two actors through films they appeared in together.
+
+* **Live Demo:** [Play Degrees of Separation](https://david-oladepo.github.io/cs50-ai-degrees-web/)
+* **Source Code:** [View on GitHub](https://github.com/David-Oladepo/cs50-ai-degrees-web)
+* **Core Concepts:** Graph search, BFS, shortest-path algorithms, Python-to-web project presentation.
 
 ## Current Technical Interests
 
